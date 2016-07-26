@@ -1,0 +1,7 @@
+c:\users\michal\documents\visual studio 2015\Projects\TestDocXDocuments\TestDocXDocuments\bin\Debug\TestDocXDocuments.exe.config
+c:\users\michal\documents\visual studio 2015\Projects\TestDocXDocuments\TestDocXDocuments\bin\Debug\TestDocXDocuments.exe
+c:\users\michal\documents\visual studio 2015\Projects\TestDocXDocuments\TestDocXDocuments\bin\Debug\TestDocXDocuments.pdb
+c:\users\michal\documents\visual studio 2015\Projects\TestDocXDocuments\TestDocXDocuments\bin\Debug\DocX.dll
+c:\users\michal\documents\visual studio 2015\Projects\TestDocXDocuments\TestDocXDocuments\obj\Debug\TestDocXDocuments.csprojResolveAssemblyReference.cache
+c:\users\michal\documents\visual studio 2015\Projects\TestDocXDocuments\TestDocXDocuments\obj\Debug\TestDocXDocuments.exe
+c:\users\michal\documents\visual studio 2015\Projects\TestDocXDocuments\TestDocXDocuments\obj\Debug\TestDocXDocuments.pdb
