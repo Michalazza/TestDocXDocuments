@@ -5,3 +5,11 @@ c:\users\michal\documents\visual studio 2015\Projects\TestDocXDocuments\TestDocX
 c:\users\michal\documents\visual studio 2015\Projects\TestDocXDocuments\TestDocXDocuments\obj\Debug\TestDocXDocuments.csprojResolveAssemblyReference.cache
 c:\users\michal\documents\visual studio 2015\Projects\TestDocXDocuments\TestDocXDocuments\obj\Debug\TestDocXDocuments.exe
 c:\users\michal\documents\visual studio 2015\Projects\TestDocXDocuments\TestDocXDocuments\obj\Debug\TestDocXDocuments.pdb
+C:\Users\Michal\Desktop\TestDocXDocuments\TestDocXDocuments\bin\Debug\TestDocXDocuments.exe.config
+C:\Users\Michal\Desktop\TestDocXDocuments\TestDocXDocuments\obj\Debug\TestDocXDocuments.exe
+C:\Users\Michal\Desktop\TestDocXDocuments\TestDocXDocuments\obj\Debug\TestDocXDocuments.pdb
+C:\Users\Michal\Desktop\TestDocXDocuments\TestDocXDocuments\bin\Debug\TestDocXDocuments.exe
+C:\Users\Michal\Desktop\TestDocXDocuments\TestDocXDocuments\bin\Debug\TestDocXDocuments.pdb
+C:\Users\Michal\Desktop\TestDocXDocuments\TestDocXDocuments\bin\Debug\DocX.dll
+C:\Users\Michal\Desktop\TestDocXDocuments\TestDocXDocuments\obj\Debug\TestDocXDocuments.csprojResolveAssemblyReference.cache
+C:\Users\Michal\Desktop\TestDocXDocuments\TestDocXDocuments\bin\Debug\DocumentFormat.OpenXml.dll
