@@ -13,3 +13,9 @@ C:\Users\Michal\Desktop\TestDocXDocuments\TestDocXDocuments\bin\Debug\TestDocXDo
 C:\Users\Michal\Desktop\TestDocXDocuments\TestDocXDocuments\bin\Debug\DocX.dll
 C:\Users\Michal\Desktop\TestDocXDocuments\TestDocXDocuments\obj\Debug\TestDocXDocuments.csprojResolveAssemblyReference.cache
 C:\Users\Michal\Desktop\TestDocXDocuments\TestDocXDocuments\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\p037\Desktop\TestDocXDocuments\bin\Debug\TestDocXDocuments.exe.config
+C:\Users\p037\Desktop\TestDocXDocuments\obj\Debug\TestDocXDocuments.exe
+C:\Users\p037\Desktop\TestDocXDocuments\obj\Debug\TestDocXDocuments.pdb
+C:\Users\p037\Desktop\TestDocXDocuments\bin\Debug\TestDocXDocuments.exe
+C:\Users\p037\Desktop\TestDocXDocuments\bin\Debug\TestDocXDocuments.pdb
+C:\Users\p037\Desktop\TestDocXDocuments\obj\Debug\TestDocXDocuments.csprojResolveAssemblyReference.cache
